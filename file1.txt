@@ -3,3 +3,4 @@ shop2
 shop3
 Shop A
 Shop B
+version A
